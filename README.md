@@ -1,2 +1,8 @@
-# Predictive-Customer-Behavior-Modeling
-Development of Predictive Muang Thai Life's Customer Behavior Modeling, using Python, Pandas, Numpy, Matplotlib, Seaborn, Shap, Scipy, Statsmodel and Scikit-learn
+SIP 2021 x MTL INTERNSHIP
+Data Science for Propensity to Buy
+
+Developed by
+Pasakorn Limchuchua
+Thiranai Keatpimol
+
+Note : The confidential information from company has been already removed.
